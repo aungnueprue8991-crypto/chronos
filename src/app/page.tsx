@@ -1,7 +1,7 @@
 import React from 'react';
-import CinemaForge from '../components/CinemaForge';
-import CompareSlider from '../components/CompareSlider';
-import RestorationForge from '../components/RestorationForge';
+import CinemaForge from '@/components/CinemaForge';
+import CompareSlider from '@/components/CompareSlider';
+import RestorationForge from '@/components/RestorationForge';
 
 export default function Home() {
   return (
